@@ -1,16 +1,14 @@
-### Hi there 👋
+Olaar, eu sou Laura Marinho 👋
 
 <!--
 **alaruma/alaruma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 Sou formada em Comunicação e tô migrando de área( até agora tô curtindo bastante da parte de dados) 😁👍
+- 🌱 Atualmente faço parte do Programa Desenvolve do Instituto Boticário como participante da trilha de dados.
+--😄 ela/dela 🏳️‍🌈
+- ⚡ Fun fact: me arrisco fazendo bolos e pães nas horas vagas.
+
+
+
+📫 me encontre no email: alarumarinho@gmail.com e também no www.linkedin.com/in/laurammarinho/
