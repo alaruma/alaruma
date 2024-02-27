@@ -8,7 +8,7 @@ Sou formada em Rádio,Tv e internet e tô em transição de carreira. Sempre tiv
 - 💻 Empenhada em agregar meu conhecimento em comunicação com os novos conhecimentos em dados.
 
 ## Projetos e Contribuições
-- 👩‍💻 Atualmente participando da trilha de dados do Programa Desenvolve do Instituto #Boticario.
+- 👩‍💻 Atualmente participando da Trilha de Dados do Programa Desenvolve.
 
 ## Fun Facts
 - 🍰 Nas horas vagas, gosto de me aventurar na cozinha fazendo bolos e pães deliciosos!
