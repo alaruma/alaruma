@@ -1,14 +1,21 @@
-Olaar, eu sou Laura Marinho 👋
+# Olaar! Eu sou Laura Marinho 🏳️‍🌈 👋 Pronomes: ela/dela 
 
-<!--
-**alaruma/alaruma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Sobre mim
+Sou formada em Rádio,Tv e internet e tô em transição de carreira. Sempre tive interesse por tecnologia, mas por causa do meu bico com a matemática e exatas... eu mudei meus caminhos. Mas, o que é muito doido é que participando da trilha de dados e alguns bootcamps eu percebi que o desafio maior era começar. Tenho gostado muito da diversidade e das possibilidades em dados 😁. 
 
-- 🔭 Sou formada em Comunicação e tô migrando de área( até agora tô curtindo bastante da parte de dados) 😁👍
-- 🌱 Atualmente faço parte do Programa Desenvolve do Instituto Boticário como participante da trilha de dados.
---😄 ela/dela 🏳️‍🌈
-- ⚡ Fun fact: me arrisco fazendo bolos e pães nas horas vagas.
+## Habilidades e Interesses
+- 📊 Interessada em aprender mais sobre análise de dados e visualização de dados.
+- 💻 Empenhada em agregar meu conhecimento em comunicação com os novos conhecimentos em dados.
+
+## Projetos e Contribuições
+- 👩‍💻 Atualmente participando da trilha de dados do Programa Desenvolve do Instituto #Boticario.
+
+## Fun Facts
+- 🍰 Nas horas vagas, gosto de me aventurar na cozinha fazendo bolos e pães deliciosos!
+- 🐱‍👤 O nome do meu usário é um anagrama do meu nome.
+
+## Vamos nos Conectar!
+- 📫 Você pode me encontrar no [LinkedIn] (https://www.linkedin.com/in/laurammarinho/) para discutir oportunidades de colaboração ou apenas bater um papo!
+- 😄 Estou sempre aberta para novas conexões e oportunidades na minha jornada de desenvolvimento de carreira!
 
 
-
-📫 me encontre no email: alarumarinho@gmail.com e também no www.linkedin.com/in/laurammarinho/
