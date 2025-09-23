@@ -37,8 +37,6 @@ Aprender continuamente e criar soluções que conectem **dados + tecnologia** co
 
 ---
 
-## 🐜 Portfólio
-Você pode acompanhar meus *trabalho  de formiga* no meu [portfólio](https://sites.google.com/view/laurammarinho/p%C3%A1gina-inicial).  
 
 
 
