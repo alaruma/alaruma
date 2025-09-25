@@ -7,8 +7,8 @@ Sou comunicadora de formação, com alma de cientista, curiosidade ilimitada e a
 ---
 
 ## 💻 Interesses
-- Desenvolvimento em **Java**, **Python** e **SQL**  
-- **Cibersegurança** e **Análise de Dados**  
+- Desenvolvimento em **Java**, **Python**, **ML**, **IA**, e **SQL**  
+- **Cibersegurança**, **Desenvolvimento de Software** e **Dados**  
 
 ---
 
