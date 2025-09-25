@@ -15,7 +15,8 @@ Sou comunicadora de formação, com alma de cientista, curiosidade ilimitada e a
 ## 📊 Experiência
 - ETL e tratamento de dados  
 - Análise exploratória e modelagem  
-- Visualização e storytelling de dados  
+- Visualização e storytelling de dados
+- Machine Learning e estaística
 
 ---
 
