@@ -2,7 +2,7 @@
 # 👋 Saudações, galera. Eu sou a Laura!
 
 Seja bem-vindo(a) ao meu GitHub!  
-Sou comunicadora de formação, com alma de cientista, curiosidade ilimitada e atualmente estudante na área de **Dados**.  
+Sou comunicadora de formação, com alma de cientista, curiosidade ilimitada 
 
 ---
 
